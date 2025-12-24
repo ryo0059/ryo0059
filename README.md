@@ -16,7 +16,7 @@ Sebagai keperluan Project Base Learning untuk tugas kuliah saya, saya juga menda
 ---
 
 ### 📊 What I'm Up To
-- 🔭 Sedang mengerjakan: **Web kesehatan untuk rencana olahraga dan juga pengembangan Back-End dari desain Front-End**
+- 🔭 Sedang mengerjakan: **Prediksi harga barang pokok maret 2026 dan juga pengembangan Back-End dari desain Front-End**
 - 🌱 Sedang mempelajari: **Machine Learning**
 - 💼 Terbuka untuk: **Internship / Freelance / Full-time opportunity**
 
