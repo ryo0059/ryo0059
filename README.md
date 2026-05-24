@@ -3,7 +3,7 @@
 ### 🚀 Python Developer | IoT Enthusiast | Data Analyst | Front-End Developer
 
 Saya adalah seseorang yang menyukai memecahkan masalah nyata menggunakan kode. Saat ini saya fokus mendalami machine learning untuk keperluan data analyst. Saya pernah belajar untuk keperluan Front-End Devloper dan masih melakukannya.
-Sebagai keperluan Project Base Learning untuk tugas kuliah saya, saya juga mendalami c++ sebagai sarana penggunaan arduino.
+Sebagai keperluan Project Base Learning untuk tugas kuliah saya, saya juga mendalami c++ sebagai sarana penggunaan arduino. Sebagai mahasiswa tingkat akhir saya saat ini mendalami komputasi kuantum dan menggunakan phyton untuk menyusunnya dalam Linux Environment.
 ---
 
 ### 🛠️ Tech Stack & Tools
